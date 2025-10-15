@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+tqdm
+sentence-transformers
+faiss-cpu
+chromadb
+posthog>=2.4.0,<6.0.0
+langchain_huggingface
